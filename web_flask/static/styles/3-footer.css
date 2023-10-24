@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 footer{
 	background-color:white;
 	height:60px;
@@ -12,6 +13,8 @@ footer{
 	line-height:30px;
 }
 =======
+=======
+>>>>>>> 37ec9f2d9976cfbd80bf8b6ebbde58e60dd6684c
 footer {
     position: fixed;
     background: white;
@@ -28,4 +31,7 @@ footer p {
     right: 0;
     left: 0;
 }
+<<<<<<< HEAD
+>>>>>>> 37ec9f2d9976cfbd80bf8b6ebbde58e60dd6684c
+=======
 >>>>>>> 37ec9f2d9976cfbd80bf8b6ebbde58e60dd6684c

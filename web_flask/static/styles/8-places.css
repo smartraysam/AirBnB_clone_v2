@@ -1,5 +1,6 @@
 .places {
 <<<<<<< HEAD
+<<<<<<< HEAD
 	text-align: center;
 }
 
@@ -75,6 +76,8 @@ div.description {
 	margin-top: 10px;
 }
 =======
+=======
+>>>>>>> 37ec9f2d9976cfbd80bf8b6ebbde58e60dd6684c
     column-count: 2;
     columns: 30em;
     justify-content: center;
@@ -175,4 +178,7 @@ div.description {
 .user {
   margin-bottom: 1.5%;
 }
+<<<<<<< HEAD
+>>>>>>> 37ec9f2d9976cfbd80bf8b6ebbde58e60dd6684c
+=======
 >>>>>>> 37ec9f2d9976cfbd80bf8b6ebbde58e60dd6684c

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 header{
 	background-color:white;
 	height:70px;
@@ -9,6 +10,8 @@ header{
 	background-position:20px 50%;
 }
 =======
+=======
+>>>>>>> 37ec9f2d9976cfbd80bf8b6ebbde58e60dd6684c
 header {
     background: white;
     height: 70px;
@@ -20,4 +23,7 @@ header .logo {
     left: 20px;
     height: 100%;
 }
+<<<<<<< HEAD
+>>>>>>> 37ec9f2d9976cfbd80bf8b6ebbde58e60dd6684c
+=======
 >>>>>>> 37ec9f2d9976cfbd80bf8b6ebbde58e60dd6684c
